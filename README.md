@@ -21,9 +21,8 @@
 ## 🎨 About me
 ```
 💼  UI Engineer · Full Stack Developer · Graphic Designer
-🌍  Based in Colombia · Open to remote roles in Spain & Europe
-🔭  Currently building: Inventory Management MVP
-🌱  Learning: React · Python · GSAP
+🌍  Based in Colombia · Open to remote roles in Europe
+🌱  Learning: React · Tailwind · GSAP
 ✨  Figma to pixel-perfect code — that's my thing
 📫  byhana.ux@gmail.com
 ```
@@ -40,7 +39,6 @@
 ![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=c9b8f5)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=7be8e0)
 ![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=f5b8d4)
-![Canva](https://img.shields.io/badge/Canva-1a1a2e?style=for-the-badge&logo=canva&logoColor=7be8e0)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=c9b8f5)
 
 </div>
